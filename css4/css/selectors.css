@@ -24,3 +24,19 @@ input[type='date']{
 input[type='number']{
     border-color: blue;
 }
+
+#form:hover{
+    color: black;
+    background-color: wheat;
+}
+
+input[type="checkbox"],[type="radio"]{
+    height: 50px;
+    width: 50px;
+}
+
+input[type="checkbox"]:checked,
+input[type="radio"]:checked {
+    height: 80px;
+    width: 80px;
+}
