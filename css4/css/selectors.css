@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(39, 13, 1);
+    color: aliceblue;
+}
+#heading2{
+    color: burlywood;
+}
+.red {
+    color: tomato;
+}
+
+input{
+    border-color: rgb(35, 165, 6);
+    padding: 10px;
+    width: 100%s;
+    margin: 10px;
+}
+
+input[type='text'],
+input[type='date']{
+    border-radius: 10px;
+}
+
+input[type='number']{
+    border-color: blue;
+}
