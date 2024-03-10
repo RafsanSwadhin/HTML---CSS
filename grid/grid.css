@@ -1,0 +1,10 @@
+#main{}
+
+.child{
+    background: tomato;
+    padding: 1em;
+    color: rgb(255, 255, 255);
+}
+.child:nth-child(odd){
+    background: rgb(241, 74, 241);
+}
